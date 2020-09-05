@@ -106,5 +106,13 @@ a:hover{
 .aboutme {
    color: rgb(8, 109, 134); 
    justify-content: center;
+   text-align: center;
+}
+.hey {
+    font-size: 30;
+    text-align: center;
+}
+.insta{
+    justify-content: center;
 }
 
