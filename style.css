@@ -16,7 +16,7 @@ padding-top: 30px;
     margin: 10px;
 }
 .camel{
-    background-color:rgb(216, 84, 111);
+    background-color:#f54269;
    display: flex;
    flex-wrap: wrap;
    flex-direction: row-reverse;
@@ -34,7 +34,7 @@ li{
    text-size-adjust: 20px;
 }
 .chameleon{
-    background-color:rgb(235, 159, 174);
+    background-color:#f542cb;
    display: flex;
    flex-wrap: wrap;
    padding-top: 20px;
@@ -42,7 +42,7 @@ li{
   
 }
 .pigeon{
-    background-color:rgb(216, 84, 111);
+    background-color:#f54269;
    display: flex;
    flex-wrap: wrap;
    flex-direction: row-reverse;
@@ -50,7 +50,7 @@ li{
    margin: 50px;
 }
 .teddy-bear{
-    background-color:rgb(235, 159, 174);
+    background-color:#f542cb;
    display: flex;
    flex-wrap: wrap;
    padding-top: 20px;
@@ -59,7 +59,7 @@ li{
   
 }
 .panda{
-    background-color:rgb(216, 84, 111);
+    background-color:#f54269;
     display: flex;
     flex-wrap: wrap;
     flex-direction: row-reverse;
@@ -67,7 +67,7 @@ li{
     margin: 50px;
 }
 .cicada{
-    background-color:rgb(235, 159, 174);
+    background-color:#f542cb;
    display: flex;
    flex-wrap: wrap;
    padding-top: 20px;
@@ -76,7 +76,7 @@ li{
 }
 body{
     margin: 0px;
-    background-color:rgb(215, 227, 238);
+    background-color:#42b6f5;
     
 }
 a:link{
